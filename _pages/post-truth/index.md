@@ -1,5 +1,4 @@
 ---
-layout: page
 title: post-truth
 permalink: post-truth
 ---
