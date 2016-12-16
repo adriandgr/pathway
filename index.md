@@ -1,8 +1,6 @@
 ---
 layout: default
+title: Coming soon
 ---
-
-
-coming soon.
 
 **portfolio:** [onzo.ca](http://www.onzo.ca/)
