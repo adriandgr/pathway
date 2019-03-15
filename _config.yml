@@ -31,5 +31,5 @@ gems:
 markdown: kramdown
 theme: minima
 
-include: ["_pages"]
+include: ["_pages", ".well-known"]
 permalink: /:categories/:title/
