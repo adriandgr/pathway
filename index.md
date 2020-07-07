@@ -1,6 +1,8 @@
 ---
 layout: default
-title: New pathway coming soon
+title: Hello World
 ---
 
-**portfolio:** [onzo.ca](http://www.onzo.ca/)
+I'm a developer in Canada.
+
+**Sometimes I post here:** [fewblocks.ca](https://fewblocks.ca/)
