@@ -3,6 +3,8 @@ layout: default
 title: In loving Memory of Inus Goussard
 ---
 
+ ![In loving memory of Inus](inus.png) 
+
 We all loved Inus, and are heartbroken. Our love is with Adrian (his partner), Lizel (his beloved sister), and Elizabeth (his mother and friend). 
 
 ## Memorial to be held on Monday Oct 5, 2020
