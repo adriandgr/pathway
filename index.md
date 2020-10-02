@@ -3,7 +3,7 @@ layout: default
 title: In loving Memory of Inus Goussard
 ---
 
- ![In loving memory of Inus](inus.png) 
+<p style="display:flex;"><img src="/inus.png" alt="In loving memory of Inus" style="max-width:600px;"></p>
 
 We all loved Inus, and are heartbroken. Our love is with Adrian (his partner), Lizel (his beloved sister), and Elizabeth (his mother and friend). 
 
